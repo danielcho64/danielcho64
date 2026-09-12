@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:vtdanielcho@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/danielcho)
 
-I'm a **Senior Security Engineer at Capital One**, working on PKI and cryptography for the Data Protection team — private certificate authorities, revocation infrastructure, and supply-chain hardening at enterprise scale. This fall I'm starting my **M.S. in Computer Science at Georgia Tech**.
+I'm a **Senior Security Engineer at Capital One**, working on PKI and cryptography for the Data Protection team — private certificate authorities, revocation infrastructure, and supply-chain hardening at enterprise scale. I'm currently pursuing my **M.S. in Computer Science at Georgia Tech** (started Fall 2026).
 
 Before Capital One: Zero Trust and cloud security for the **NIH** STRIDES program, and security GRC at **Fannie Mae**.
 
