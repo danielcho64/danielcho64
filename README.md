@@ -22,12 +22,12 @@ Outside of work I design, build, and ship products end to end. Most of that code
 
 <h2>🔐 Certifications</h2>
 
-14 industry certifications, all verified on [Credly](https://www.credly.com/users/danielcho):
+15 industry certifications, all verified on [Credly](https://www.credly.com/users/danielcho):
 
 | | |
 | --- | --- |
 | **Security** | [CISSP](https://www.credly.com/badges/a02487b3-51e1-41fd-8862-da6a1d06e59a) · [CISA](https://www.credly.com/badges/5d56f38b-44ab-46b8-985b-3e80d7f77ab1) · [GIAC GDSA](https://www.credly.com/badges/54d60bf8-58d1-4a4f-8c8f-187fd86aa68f) (SANS SEC530) |
-| **Cloud** | AWS Solutions Architect, SysOps Administrator & Cloud Practitioner · Azure Administrator & Fundamentals · Google Cloud Associate Cloud Engineer |
+| **Cloud** | AWS Solutions Architect, SysOps Administrator, [AI Practitioner](https://www.credly.com/badges/6aac1ee1-32e9-49bc-bdb4-e5481c96f5a1) & Cloud Practitioner · Azure Administrator & Fundamentals · Google Cloud Associate Cloud Engineer |
 | **Tools & Foundational** | HashiCorp Terraform Associate · Splunk Core Certified User · CompTIA Security+, A+, ITF+ |
 
 <h2>🧰 Stack</h2>
