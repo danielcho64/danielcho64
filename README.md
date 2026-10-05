@@ -15,6 +15,8 @@ Outside of work I design, build, and ship products end to end. Most of that code
 
 | Product | What it is | Stack |
 | ------- | ---------- | ----- |
+| **[AgentKinetics](https://agentkinetics.io)** | AI automation agency I founded — custom AI agents, automations, and AI operating systems built for businesses and handed over running | Claude · agents · automations |
+| **[Agentpreneurs](https://agentpreneurs.ai)** | Program I founded that trains people to build and sell AI agent systems next to a day job | Live coaching · build reviews · templates |
 | **[BopRush](https://boprush.com)** | Mobile arcade game on the App Store & Google Play — nine mini-games, weekly ranked ladders, real-time battle rooms | Swift · iOS & Android · real-time multiplayer |
 | **[Content Dashboard](https://daniel-content-dashboard.vercel.app)** | Full-stack creator SaaS — AI script assistant, built-in teleprompter, kanban pipeline from idea to post | Next.js · Supabase · Stripe |
 | **[Top 50 Life Tips](https://50lifehacks.vercel.app)** | Crowdsourced leaderboard for practical advice — vote and comment with no account, secured by Postgres RLS | Next.js · Supabase · Tailwind |
